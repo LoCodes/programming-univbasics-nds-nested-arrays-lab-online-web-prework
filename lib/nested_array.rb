@@ -38,7 +38,7 @@ end
 def matrix_lookup(matrix, row, column)
   matrix_lookup = [["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"], [ "Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]]
  
- matrix_lookup[row][column]
+ matrix[row][column]
 
   
   # Given any matrix (array of arrays), a row index and a column index, 
