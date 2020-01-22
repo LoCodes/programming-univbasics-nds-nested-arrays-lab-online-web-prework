@@ -39,6 +39,7 @@ def matrix_lookup(matrix, row, column)
   matrix_lookup = [["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"], [ "Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]]
   
   matrix_lookup[1][3]
+  matrix_lookup[1][1]
   
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
